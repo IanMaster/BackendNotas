@@ -1,0 +1,15 @@
+{
+  "name": "backendtodo",
+  "version": "1.0.0",
+  "description": "BackEnd_ToDo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ian",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.2.3"
+  }
+}
